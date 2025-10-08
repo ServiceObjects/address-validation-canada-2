@@ -1,0 +1,5 @@
+Filename,RawURL
+avca2_response.js,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-nodejs/REST/avca2_response.js
+readme.md,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-nodejs/REST/readme.md
+validate_canadian_address_v2_rest.js,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-nodejs/REST/validate_canadian_address_v2_rest.js
+validate_canadian_municipality_province_rest.js,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-nodejs/REST/validate_canadian_municipality_province_rest.js
