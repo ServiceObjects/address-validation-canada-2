@@ -1,0 +1,5 @@
+Filename,RawURL
+avca2_response.py,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-python/REST/avca2_response.py
+readme.md,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-python/REST/readme.md
+validate_canadian_address_v2_rest.py,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-python/REST/validate_canadian_address_v2_rest.py
+validate_canadian_municipality_province_rest.py,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-python/REST/validate_canadian_municipality_province_rest.py
