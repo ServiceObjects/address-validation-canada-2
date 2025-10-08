@@ -1,0 +1,6 @@
+Filename,RawURL
+AVCA2Response.cs,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-dot-net/REST/AVCA2Response.cs
+Helper.cs,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-dot-net/REST/Helper.cs
+ValidateCanadianAddressV2.cs,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-dot-net/REST/ValidateCanadianAddressV2.cs
+ValidateCanadianMunicipalityProvince.cs,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-dot-net/REST/ValidateCanadianMunicipalityProvince.cs
+readme.md,https://raw.githubusercontent.com/ServiceObjects/address-validation-canada-2/refs/heads/master/address-validation-canada-2-dot-net/REST/readme.md
