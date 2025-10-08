@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "address-validation-canada-2-dot-net", "address-validation-canada-2-dot-net\address-validation-canada-2-dot-net.csproj", "{78764944-621F-47F2-98C0-80B45C4D602D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "address-validation-canada-2-dot-net-examples", "address-validation-canada-2-dot-net-examples\address-validation-canada-2-dot-net-examples.csproj", "{35EF1658-2F96-4DA9-98B5-4E2CE559C075}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "address-validation-canada-2-nodejs", "address-validation-canada-2-nodejs\address-validation-canada-2-nodejs.esproj", "{58AE2D57-0549-30E6-4188-D2D9311E32DE}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "address-validation-canada-2-nodejs-examples", "address-validation-canada-2-nodejs-examples\address-validation-canada-2-nodejs-examples.esproj", "{FF23BEC8-449D-B502-3F36-323F3F2EB436}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "address-validation-canada-2-python", "address-validation-canada-2-python\address-validation-canada-2-python.pyproj", "{0D0CA0D6-525A-47C1-BB55-A506BCC5A783}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "address-validation-canada-2-python-examples", "address-validation-canada-2-python-examples\address-validation-canada-2-python-examples.pyproj", "{2BA6B7DB-CEEC-4575-B437-EC75AAEB819C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78764944-621F-47F2-98C0-80B45C4D602D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78764944-621F-47F2-98C0-80B45C4D602D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78764944-621F-47F2-98C0-80B45C4D602D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78764944-621F-47F2-98C0-80B45C4D602D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EF1658-2F96-4DA9-98B5-4E2CE559C075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EF1658-2F96-4DA9-98B5-4E2CE559C075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EF1658-2F96-4DA9-98B5-4E2CE559C075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EF1658-2F96-4DA9-98B5-4E2CE559C075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AE2D57-0549-30E6-4188-D2D9311E32DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AE2D57-0549-30E6-4188-D2D9311E32DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AE2D57-0549-30E6-4188-D2D9311E32DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{58AE2D57-0549-30E6-4188-D2D9311E32DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AE2D57-0549-30E6-4188-D2D9311E32DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58AE2D57-0549-30E6-4188-D2D9311E32DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FF23BEC8-449D-B502-3F36-323F3F2EB436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF23BEC8-449D-B502-3F36-323F3F2EB436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF23BEC8-449D-B502-3F36-323F3F2EB436}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FF23BEC8-449D-B502-3F36-323F3F2EB436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF23BEC8-449D-B502-3F36-323F3F2EB436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF23BEC8-449D-B502-3F36-323F3F2EB436}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0D0CA0D6-525A-47C1-BB55-A506BCC5A783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0CA0D6-525A-47C1-BB55-A506BCC5A783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA6B7DB-CEEC-4575-B437-EC75AAEB819C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA6B7DB-CEEC-4575-B437-EC75AAEB819C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69FC2005-B1AE-4EE0-95A0-C4B4EE2929D9}
+	EndGlobalSection
+EndGlobal
